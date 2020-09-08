@@ -11,4 +11,5 @@ if __name__ == '__main__':
 
     query_name = input()
     print("{:.2f}".format(sum(student_marks.get(query_name))/len(student_marks.get(query_name))))
+    #teste feito pelo vscode
 
