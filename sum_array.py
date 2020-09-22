@@ -11,7 +11,6 @@ def simpleArraySum(ar):
     for x in ar:
         soma += x
     return soma
-    
 if __name__ == '__main__':
     fptr = open(os.environ['OUTPUT_PATH'], 'w')
 
